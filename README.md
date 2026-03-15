@@ -6,5 +6,7 @@ A quiet, dark-only refinement of the default BearBlog theme, focused on typograp
 
 ---
 
+More screenshots:
+
 - [Archive page](quiettype-archive.webp)
 - [Guestbook](quiettype-guestbook.webp)
